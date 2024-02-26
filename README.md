@@ -13,4 +13,4 @@ I especially like Python S2
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 
-![image](https://github.com/laugraeffcorreia/laugraeffcorreia/assets/160161978/b4260401-bc12-4d60-b17a-7fe5bb85fb8e)
+![GIF from GIFER](https://github.com/laugraeffcorreia/laugraeffcorreia/assets/160161978/7c371438-dc46-4a61-95ae-38c6f4a48423)
