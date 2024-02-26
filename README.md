@@ -1,4 +1,4 @@
-I especially like Python S2
+꧁༺ɨ ɛֆքɛƈɨǟʟʟʏ ʟɨӄɛ քʏȶɦօռ ֆ2༻꧂
 
 ![GIF from GIFER](https://github.com/laugraeffcorreia/laugraeffcorreia/assets/160161978/7c371438-dc46-4a61-95ae-38c6f4a48423)
 
